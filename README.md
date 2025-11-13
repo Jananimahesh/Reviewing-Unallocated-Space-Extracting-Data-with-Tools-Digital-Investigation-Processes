@@ -6,6 +6,7 @@ To review unallocated space in a disk image, extract data using forensic tools, 
 - Sleuth Kit (TSK)
 - Hex Editor (e.g., HxD)
 - Operating System: Windows 10/11 or Linux (Kali preferred)
+- 
 ## ARCHITECTURE DIAGRAM
 ```mermaid
 flowchart TD
